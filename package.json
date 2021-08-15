@@ -1,0 +1,15 @@
+{
+  "name": "striga-booster-guard",
+  "version": "0.0.1",
+  "description": "Striga guard",
+  "main": "striga-guardian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Striga",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security"
+  }
+}
